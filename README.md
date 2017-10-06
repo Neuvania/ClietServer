@@ -1,2 +1,3 @@
 # ClietServer
-Cliente e Servidor UDP
+Comunicação Cliente e Servidor UDP usando socket
+
